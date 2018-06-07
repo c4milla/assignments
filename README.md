@@ -11,4 +11,4 @@ this repository contains my assignments
 
 [Assignment 2 R](https://github.com/c4milla/assignments/blob/master/Graded_assignment_2.ipynb)
 
-[Final Exam, Python Assignment] (https://github.com/c4milla/assignments/blob/master/exam_june_7_2018.ipynb)
+[Final Exam, Python Assignment](https://github.com/c4milla/assignments/blob/master/exam_june_7_2018.ipynb)
